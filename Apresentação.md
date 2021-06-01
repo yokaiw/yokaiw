@@ -1,0 +1,3 @@
+- Olá me chamo Yuri e utilizo o apelido de "Yokai";
+- Gosto e Jogos e aprecio bons códigos;
+- Atualmente estou cursando Sistemas de Informação. 
